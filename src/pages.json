@@ -1,0 +1,146 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/index",
+      "style": {}
+    },
+    {
+      "path": "pages/work/index",
+      "style": {}
+    },
+    {
+      "path": "pages/mine/index",
+      "style": {}
+    },
+    {
+      "path": "pages/report/index",
+      "style": {}
+    },
+    {
+      "path": "pages/news/index",
+      "style": {}
+    },
+    {
+      "path": "pages/handle/index",
+      "style": {}
+    },
+    {
+      "path": "pages/complete/index",
+      "style": {}
+    },
+    {
+      "path": "pages/approval/index",
+      "style": {}
+    },
+    {
+      "path": "pages/pdf-view/index",
+      "style": {}
+    },
+    {
+      "path": "pages/news-details/news-details",
+      "style": {}
+    },
+    {
+      "path": "pages/personal-info/personal-info",
+      "style": {}
+    },
+    {
+      "path": "pages/pwd-edit/pwd-edit",
+      "style": {}
+    },
+    {
+      "path": "pages/report-iframe/report-iframe",
+      "style": {}
+    },
+    {
+      "path": "pages/price-confirm/price-confirm",
+      "style": {}
+    },
+    {
+      "path": "pages/document/document",
+      "style": {}
+    },
+    {
+      "path": "pages/invoice-registration/invoice-registration",
+      "style": {}
+    },
+    {
+      "path": "pages/supplier/supplier",
+      "style": {}
+    },
+    {
+      "path": "pages/price-registration/price-registration",
+      "style": {}
+    },
+    {
+      "path": "pages/price-registration/price-batch/price-batch",
+      "style": {}
+    },
+    {
+      "path": "pages/storage-notice/storage-notice",
+      "style": {}
+    },
+    {
+      "path": "pages/storage-notice/supplier-select/supplier-select",
+      "style": {}
+    },
+    {
+      "path": "pages/storage-notice/storage-select/storage-select",
+      "style": {}
+    },
+    {
+      "path": "pages/storage-notice/purchase-batch-select/purchase-batch-select",
+      "style": {}
+    },
+    {
+      "path": "pages/storage-notice/add-cost/add-cost",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-apply/fund-apply",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-apply/fund-apply-detail/fund-apply-detail",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-apply/cust-credit-list/cust-credit-list",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-apply/choose-contract-info/choose-contract-info",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-apply/choose-claim-info/choose-claim-info",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-confirm/fund-confirm",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-confirm/choose-fund-apply/choose-fund-apply",
+      "style": {}
+    },
+
+    {
+      "path": "pages/fund-confirm/acceptanceInfo/acceptanceInfo",
+      "style": {}
+    },
+    {
+      "path": "pages/fund-confirm/lcConfirmDialog/lcConfirmDialog",
+      "style": {}
+    },
+    {
+      "path": "pages/ladingBill/ladingBill",
+      "style": {}
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#2484cf",
+    "navigationStyle": "custom"
+  }
+}
